@@ -6,4 +6,4 @@ edition = "2021"
 publish = false
 
 [dependencies]
-rocket = { path = "../../core/lib" }
+rocket = "0.5.0-rc.2"
